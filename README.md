@@ -1,2 +1,2 @@
-# hello-world
-for practice
+# Hello World
+零基础在自学前端，希望能成为一位前端程序员。
